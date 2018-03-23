@@ -1,0 +1,10 @@
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\bin\Debug\ComputerStore.exe.config
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\bin\Debug\ComputerStore.exe
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\bin\Debug\ComputerStore.pdb
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.Form1.resources
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.Properties.Resources.resources
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.csproj.GenerateResource.Cache
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.exe
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.pdb
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.csprojResolveAssemblyReference.cache
+C:\Users\pavel.pavel-ПК\documents\visual studio 2013\Projects\AdditionalForms\ComputerStore\obj\Debug\ComputerStore.Form2.resources

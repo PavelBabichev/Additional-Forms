@@ -1,0 +1,10 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\bin\Debug\Notepad--.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\bin\Debug\Notepad--.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\bin\Debug\Notepad--.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad__.Form1.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad__.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad--.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad--.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad--.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad--.csprojResolveAssemblyReference.cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\Notepad--\obj\Debug\Notepad__.Form2.resources

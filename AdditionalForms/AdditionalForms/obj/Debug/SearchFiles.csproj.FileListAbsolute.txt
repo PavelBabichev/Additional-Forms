@@ -1,0 +1,10 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\bin\Debug\AdditionalForms.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\bin\Debug\AdditionalForms.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\bin\Debug\AdditionalForms.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\SearchFiles.csprojResolveAssemblyReference.cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\AdditionalForms.Form1.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\AdditionalForms.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\SearchFiles.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\AdditionalForms.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\AdditionalForms.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\AdditionalForms\AdditionalForms\obj\Debug\AdditionalForms.Form2.resources
